@@ -1,1 +1,2 @@
 # maga2
+# informacion 
